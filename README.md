@@ -5,12 +5,14 @@ power to get negotiated supplier rates, with branded payment cards and tiered
 subscriptions. Freelance work for a client, sole developer. **The platform was
 sold in 2026** and handed over to the buyer with no service interruption.
 
-**Live:** [www.negotination.com](https://www.negotination.com)
-**Role:** sole developer, designer and operator — January to August 2025, 55 commits
+**Live:** [www.negotination.com](https://www.negotination.com)\
+**Role:** sole developer, designer and operator — January to August 2025, 55 commits\
 **Size:** ~5,300 lines of Python, 5 languages
 
 > **No source code here.** The platform now belongs to its buyer. This
 > document describes how it was built.
+
+![NegotiNation landing page](docs/01-landing.png)
 
 ## The problem
 
